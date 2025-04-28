@@ -30,12 +30,14 @@
 ### Підписати зображення:
 
 ```bash
+cd uzi_hw
 python sign_image.py
 ```
 
 ### Перевірити підпис зображення:
 
 ```bash
+cd uzi_hw
 python verify_image_signature.py
 ```
 ## Основні функції
